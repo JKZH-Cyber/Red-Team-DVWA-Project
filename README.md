@@ -273,7 +273,7 @@ This lab was created and operated 100% ethically. I provisioned all systems, and
 
 ## 🙏 Thanks for Following Along
 
-Feel free to fork the repo, connect with me on GitHub, or reach out for collaboration opportunities.
+I appreciate you taking the time to review this project.
 
-— **Jonathan (@JKZH)**
+— **Jonathan (https://github.com/JKZH-Cyber)**
 
