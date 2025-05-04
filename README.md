@@ -242,6 +242,7 @@ nmap --script vuln 208.167.237.7
 ![Screenshot 2025-05-03 181425](https://github.com/user-attachments/assets/f0a530b0-797b-4c7a-bbfa-c1929ad4beea)
 ![Screenshot 2025-05-03 181433](https://github.com/user-attachments/assets/074f006c-d53d-4bbd-8817-9595cc433d71)
 ![Screenshot 2025-05-03 181546](https://github.com/user-attachments/assets/f9531a83-a8df-4bb0-ab37-077e09fa95e5)
+![Screenshot 2025-05-04 160537](https://github.com/user-attachments/assets/6dcb05eb-bf50-4cbb-8300-9977791231eb)
 ![Screenshot 2025-05-03 182515](https://github.com/user-attachments/assets/585b71ba-4b69-427c-aeb9-f8a146397021)
 ![Screenshot 2025-05-03 182633](https://github.com/user-attachments/assets/b2258bb6-14ca-4f5c-bcdc-38a03d661d71)
 ![Screenshot 2025-05-03 182843](https://github.com/user-attachments/assets/5ff0f9c1-18cc-4762-bec4-8256e17227bb)
