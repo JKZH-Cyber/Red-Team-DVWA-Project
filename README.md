@@ -1,4 +1,4 @@
-# 🔴 JKZH Red Team Cloud Lab Project (DVWA Phase 1)
+# 🔴 JKZH Red Team Cloud Lab Project (DVWA)
 
 ## 📌 Overview
 
